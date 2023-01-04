@@ -1,0 +1,26 @@
+{
+  "name": "jest-tdd-exercise",
+  "version": "1.0.0",
+  "description": "<!-- TABLE OF CONTENTS -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkolade/jest-tdd-exercise.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kola Kolade",
+    "email": "kolakolade@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkolade/jest-tdd-exercise/issues"
+  },
+  "homepage": "https://github.com/kkolade/jest-tdd-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
