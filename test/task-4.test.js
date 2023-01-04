@@ -1,3 +1,5 @@
+const capitalize = require("../js/task-4");
+
 test("capitalize function", () => {
   // Test that the function capitalizes the first character of the string
   expect(capitalize("hello")).toBe("Hello");
