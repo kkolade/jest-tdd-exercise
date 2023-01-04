@@ -1,5 +1,6 @@
 const stringLength = require("../js/app");
 
+// Task1
 test("Error if input is not a string", () => {
   expect(() => stringLength(123)).toThrow("Input must be a string");
 });
