@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 A Minimalist To Do App ](#-a-minimalist-to-do-app-)
+- [📖 Jest TDD Exercise ](#-jest-tdd-exercise-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 A Minimalist To Do App <a name="about-project"></a>
+# 📖 Jest TDD Exercise <a name="about-project"></a>
 
-**The To Do App** is a simple web base application to manage your tasks and activities.
+**This exercise** is to learn JavaScript testing and Test Driven Development using Jest.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -32,17 +32,15 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Jest</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Vanilla JavaScript</a></li>
-    <li><a href="https://webpack.js.org/">Webpack</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">LocalStorage</a></li>
+    
   </ul>
 </details>
 
@@ -50,9 +48,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add tasks and persist in localStorage**
-- **Ability to update, mark as completed and delete tasks**
-- **Minimalist interface**
+- **Testing**
+- **TDD**
+- **Jest**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
